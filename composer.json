@@ -4,6 +4,12 @@
     "description": "Laravel wrapper for zendesk/zendesk_api_client_php package",
     "keywords": ["zendesk"],
     "homepage": "http://workwithhuddle.com",
+    "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/sync667/zendesk_api_client_php"
+    }
+  ],
     "authors": [
         {
             "name": "Huddle Digital Ltd",
@@ -13,7 +19,7 @@
     "require": {
         "php": ">=5.4.0",
         "illuminate/support": "~5.4|^6.0|^7.0|^8.0",
-        "zendesk/zendesk_api_client_php": "2.*"
+        "zendesk/zendesk_api_client_php": "dev-master"
     },
     "extra": {
         "laravel": {
