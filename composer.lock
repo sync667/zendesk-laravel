@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "95c06f35d84545e3b9a3e158ee5c6a0b",
+    "content-hash": "1e88102371b66ae2b03d079bbf040475",
     "packages": [
         {
             "name": "doctrine/inflector",
@@ -1287,16 +1287,16 @@
         },
         {
             "name": "zendesk/zendesk_api_client_php",
-            "version": "dev-master",
+            "version": "dev-fix",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sync667/zendesk_api_client_php.git",
-                "reference": "ff679439fa60f829d1c1afa3fbe57ec3cbb03f44"
+                "reference": "ef498ba52258b9407051270b958fe3481e3abd28"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sync667/zendesk_api_client_php/zipball/ff679439fa60f829d1c1afa3fbe57ec3cbb03f44",
-                "reference": "ff679439fa60f829d1c1afa3fbe57ec3cbb03f44",
+                "url": "https://api.github.com/repos/sync667/zendesk_api_client_php/zipball/ef498ba52258b9407051270b958fe3481e3abd28",
+                "reference": "ef498ba52258b9407051270b958fe3481e3abd28",
                 "shasum": ""
             },
             "require": {
@@ -1324,9 +1324,9 @@
             "description": "PHP Client for Zendesk REST API. See https://developer.zendesk.com/rest_api/docs/core/introduction .",
             "homepage": "https://github.com/zendesk/zendesk_api_client_php",
             "support": {
-                "source": "https://github.com/sync667/zendesk_api_client_php/tree/master"
+                "source": "https://github.com/sync667/zendesk_api_client_php/tree/fix"
             },
-            "time": "2020-09-25T12:51:15+00:00"
+            "time": "2020-09-25T12:56:46+00:00"
         }
     ],
     "packages-dev": [],
