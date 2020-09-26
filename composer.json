@@ -19,7 +19,7 @@
     "require": {
         "php": ">=5.4.0",
         "illuminate/support": "~5.4|^6.0|^7.0|^8.0",
-        "zendesk/zendesk_api_client_php": "dev-fix"
+        "zendesk/zendesk_api_client_php": "dev-fix as 2.3.0"
     },
     "extra": {
         "laravel": {
