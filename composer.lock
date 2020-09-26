@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "aca5649ce08d675035c1b6df5d897b5f",
+    "content-hash": "06d214ed2cbb1557e8a917f54e1fef9e",
     "packages": [
         {
             "name": "doctrine/inflector",
@@ -1330,14 +1330,7 @@
         }
     ],
     "packages-dev": [],
-    "aliases": [
-        {
-            "alias": "2.3.0",
-            "alias_normalized": "2.3.0.0",
-            "version": "dev-fix",
-            "package": "zendesk/zendesk_api_client_php"
-        }
-    ],
+    "aliases": [],
     "minimum-stability": "stable",
     "stability-flags": {
         "zendesk/zendesk_api_client_php": 20
