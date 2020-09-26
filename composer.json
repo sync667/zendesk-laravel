@@ -3,12 +3,6 @@
     "type": "library",
     "description": "Laravel wrapper for zendesk/zendesk_api_client_php package",
     "keywords": [""],
-    "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/sync667/zendesk_api_client_php"
-    }
-  ],
     "authors": [
         {
             "name": "Huddle Digital Ltd",
